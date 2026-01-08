@@ -30,7 +30,7 @@ The dataset consists of labeled agricultural images organized into training and 
 
 <h2>Folder Structure:</h2>
 <pre>
-dataset/
+datasets/
 │
 ├── train/
 │   ├── indian_market/
