@@ -8,8 +8,8 @@ This project implements a Deep Learning-based image classification system to aut
 - Indian Market
 - Onion
 - Potato
-- Tomato 
-
+- Tomato
+  
 The model is built using Convolutional Neural Networks (CNNs) and is designed to assist in recognizing agricultural produce and market scenes from images.
 <h2>Objective:</h2>
 
